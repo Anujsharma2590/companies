@@ -187,7 +187,11 @@ Telecom
 ☘️ Some lesser-known, but GOLD lists:
 
 📍 Neetcode: https://neetcode.io/
+
 📍 Sean Prashad’s Leetcode Patterns: https://seanprashad.com/leetcode-patterns/
+
 📍 Blind 75: (https://bit.ly/3MDSma8) / Blind 50: https://www.techinterviewhandbook.org/best-practice-questions
+
 📍 work@tech: https:https://workat.tech/problem-solving/practice
+
 https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
