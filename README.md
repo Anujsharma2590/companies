@@ -1,5 +1,14 @@
 # companies
 
+There are many fantastic companies out there in terms of:
+Pay
+Work-life balance
+Work culture
+Career growth
+and a lot more things.
+
+Here is a list of 115+ such companies on the basis of their marketplace/field. 
+
 Mobility Companies:
 - Ola
 - Uber
